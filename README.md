@@ -48,7 +48,8 @@
 
 ### Languages and Tools :
 
-#### Classic Frontend ( Yes, I still know what all these fancy frameworks are built upon... )
+#### Classic Frontend 
+Yes, I learned frontend when jQuery was the GOAT! Having a solid foundation on classic technology without abstraction layers is mandatory to actually understand any advanced framework or toolkit (looking at you React and Tailwind).  
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/handlebars/handlebars-original.svg" title="Handlebars"  alt="Handlebars" width="50" height="50"/>&nbsp;
@@ -56,40 +57,56 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gulp/gulp-plain.svg" title="Gulp"  alt="Gulp" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="50" height="50"/>
 </div>
 
 #### Modern Frontend
+Advanced tools I work with for modern web application development with a focus on first level citizen products for micro frontend architectures.
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" title="Java" alt="Typescript" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="50" height="50"/>
+<img src="assets/modernjs-logo.svg" title="ModernJs" alt="ModernJs" width="50" height="50"/>
+<img src="assets/rsbuild-logo.svg" title="Rsbuild" alt="Rsbuild" width="50" height="50"/>
+<img src="assets/rslib-logo.svg" title="Rsib" alt="Rslib" width="50" height="50"/>
+<img src="assets/rspress-logo.svg" title="Rspress" alt="Rspress" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/playwright/playwright-original.svg" title="Playwrite" alt="Playwrite" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>
+<img src="assets/module-federation-logo.svg" title="NodeJs" alt="NodeJs" width="50" height="50"/>
+</div>
+
+#### Bundler
+It is my daily business to adapt, maintain and modernize/migrate bundlers to keep pipeline performance, frontend infrastructure and developer experience on a peak level. This also includes writing custom Rspack plugins (Rust bundler following the amazing API architecture philosophy of Webpack)
+<div>
+<img src="assets/rspack-logo.svg" title="Rspack" alt="Rspack" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gulp/gulp-plain.svg" title="Gulp"  alt="Gulp" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bower/bower-line.svg" title="Bower"  alt="Bower" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/grunt/grunt-original.svg" title="Grunt"  alt="Grunt" width="50" height="50"/>&nbsp;
+</div>
+
+#### Infra
+I am not a DevOps specialist but I am familiar configuring my own docker-compose files, gitlab pipelines and reverse-proxy rules on my own.
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/traefikproxy/traefikproxy-original.svg" title="Traefik" alt="Traefik" width="50" height="50"/>
 </div>
 
 #### Generic
+Additional tech I like to use to keep the work rolling.
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/openapi/openapi-original.svg" title="OpenApi" alt="OpenApi" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sonarqube/sonarqube-original.svg" title="SonarQube" alt="SonarQube" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
 
-#### Infra
-
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/traefikproxy/traefikproxy-original.svg" title="Traefik" alt="Traefik" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="50" height="50"/>
-</div>
-
-  #### Fun Stuff
+#### Fun Stuff
+With my background in Interaction Design and 3D Environment Art, I enjoy fiddling around with Generative Art and 3D on the web to honor my past ;-).
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/threejs/threejs-original.svg" title="ThreeJs" alt="ThreeJs" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/p5js/p5js-original.svg" title="p5js" alt="p5js" width="50" height="50"/>
@@ -98,5 +115,5 @@
 ---
 
 ###  Blog Articles :
-
+Check out my articles on web tech and web architecture:
 * [Your Guide to Architectural Decisions in Enterprise Development with Module Federation](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)
