@@ -106,7 +106,7 @@ Additional tech I like to use to keep the work rolling.
 </div>
 
 #### Fun Stuff
-With my background in Interaction Design and 3D Environment Art, I enjoy fiddling around with Generative Art and 3D on the web to honor my past ;-).
+I love to play around with Generative Art and 3D on the web. It's just a cool creative process and a nice chance for me to apply knowledge of my Interaction Design and 3D Environemnt Art past to the web world. 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/threejs/threejs-original.svg" title="ThreeJs" alt="ThreeJs" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/p5js/p5js-original.svg" title="p5js" alt="p5js" width="50" height="50"/>
