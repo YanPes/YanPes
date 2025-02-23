@@ -71,7 +71,7 @@ Advanced tools I work with for modern web application development with a focus o
 <img src="assets/rspress-logo.svg" title="Rspress" alt="Rspress" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/playwright/playwright-original.svg" title="Playwrite" alt="Playwrite" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="50" height="50"/>
-<img src="assets/module-federation-logo.svg" title="NodeJs" alt="NodeJs" width="50" height="50"/>
+<img src="assets/module-federation-logo.svg" title="ModuleFederation" alt="ModuleFederation" width="50" height="50"/>
 </div>
 
 #### Bundler
