@@ -24,11 +24,16 @@
 
 * I am a Frontend Software Architect for web applications and whole platforms working at Festo SE & Co. KG, the leader in pneumatic and electric industrial automation technology.
 
-* Besides my daily work, I am a member of the "ByteDance Inc. Innovator Program" where I contribute to open source technologies like [Module Federation](https://module-federation.io/index.html), [Modern.js](https://modernjs.dev/en/index.html), [Rslib](https://lib.rsbuild.dev/index) and [Rspack/Rsbuild](https://rspack.dev/) although, my main role is to represent these technologies as an advocate in the public and social-media.
+* Besides my daily work, I am a member of the "ByteDance Inc. Innovator Program" where I contribute to open source technologies like [Module Federation](https://module-federation.io/index.html), [Modern.js](https://modernjs.dev/en/index.html), [Rslib](https://lib.rsbuild.dev/index) and [Rspress](https://rspress.dev/) although, my main role is to represent these technologies as an advocate in the public and social-media.
 
-* In my free time, I try to spend as much time as possible off-screen to keep a long lasting productivity. You will most likely find me trail-running or hiking in the mountains or woods, reading a good book or exploring nature and other cultures with my girlfriend.
+* In my free time, I try to spend as much time as possible off-screen to keep a consistent productivity level and mental balance. You will most likely find me:
+  * Trail-running or hiking in the mountains or woods
+  * Alpine skiing on groomers
+  * Reading a good book
+  * Exploring nature and other cultures with my girlfriend
+  * Express creativity through cooking
 
-* If I carve out some time for private programming, it is mostly research related or fiddling around with my neovim-config
+* If I carve out some time for private coding, it is mostly research related or fiddling around with my neovim-config
 
 ---
 
@@ -117,3 +122,20 @@ I love to play around with Generative Art and 3D on the web. It's just a cool cr
 ###  Blog Articles :
 Check out my articles on web tech and web architecture:
 * [Your Guide to Architectural Decisions in Enterprise Development with Module Federation](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)
+
+---
+
+### Book Recommendations :
+* Scary Smart: The Future of Artificial Intelligence and How You Can Save Our World | _Mo Gawdat_
+* The Shallows: How the Internet Is Changing the Way We Think | _Carr_
+* Pragmatic Programmer, The: Your journey to mastery | _Andrew Hunt, David Thomas_
+* Deep Work: Rules for Focused Success in a Distracted World | _Cal Newport_
+* Slow Productivity: The Lost Art of Accomplishment Without Burnout | _Cal Newport_
+* Digital Minimalism: Choosing a Focused Life in a Noisy World | _Cal Newport_
+* Getting Things Done: The Art of Stress-free Productivity | _David Allen_
+* Eat & Run: My Unlikely Journey to Ultramarathon Greatness | _Scott Jurek_
+* The Rise of the Ultra Runners: A Journey to the Edge of Human Endurance | _Adharanand Finn_
+* Born to Run | _Christopher McDougall_
+* Finding Ultra | _Rich Roll_
+* Can't Hurt Me: Master Your Mind and Defy the Odds | _David Goggins_
+* Essentialism: The Disciplined Pursuit of Less | _Greg Mckeown_
