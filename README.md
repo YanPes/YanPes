@@ -24,7 +24,7 @@
 
 * I am a Frontend Software Architect for web applications and whole platforms working at Festo SE & Co. KG, the leader in pneumatic and electric industrial automation technology.
 
-* Besides my daily work, I am a member of the "ByteDance Inc. Innovator Program" where I contribute to open source technologies like [Module Federation](https://module-federation.io/index.html), [Modern.js](https://modernjs.dev/en/index.html), [Rslib](https://lib.rsbuild.dev/index) and [Rspress](https://rspress.dev/) although, my main role is to represent these technologies as an advocate in the public and social-media.
+* Besides my daily work, I am a member of the "ByteDance OpenSource Innovator Program" where I contribute to open source technologies like [Module Federation](https://module-federation.io/index.html), [Modern.js](https://modernjs.dev/en/index.html), [Rslib](https://lib.rsbuild.dev/index) and [Rspress](https://rspress.dev/) although, my main role is to represent these technologies as an advocate in the public and social-media.
 
 * In my free time, I try to spend as much time as possible off-screen to keep a consistent productivity level and mental balance. You will most likely find me:
   * Trail-running or hiking in the mountains or woods
