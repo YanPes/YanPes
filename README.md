@@ -22,7 +22,9 @@
 
 ### About Me :
 
-* I am a Frontend Software Architect for web applications and whole platforms working at Festo SE & Co. KG, the leader in pneumatic and electric industrial automation technology.
+* I am a Frontend Software Architect for web applications and intricate web platform systems working at Festo SE & Co. KG, the leading company in pneumatic and electric industrial automation technology.
+* My main focus and responsibility is to move monolithic frontend codebases and systems to dynamic and interconnected frontend ecosystems (micro-frontends) to optimize and enable technology stacks and infrastructure to support highly dynamic and complex business demands of tomorrow.
+* This endeavor is especially important when streamlining decentralized development teams working on a common overarching Customer Journey with complex omni-directional communication and code-sharing requirements. 
 
 * Besides my daily work, I am a member of the "ByteDance OpenSource Innovator Program" where I contribute to open source technologies like [Module Federation](https://module-federation.io/index.html), [Modern.js](https://modernjs.dev/en/index.html), [Rslib](https://lib.rsbuild.dev/index) and [Rspress](https://rspress.dev/) although, my main role is to represent these technologies as an advocate in the public and social-media.
 
