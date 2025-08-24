@@ -15,9 +15,16 @@
 </div>
 
 <h1 align="center">
-  Hi there
+  Hi there, welcome to my corner of GitHub
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+I'm a Frontend Software Architect who thrives on building scalable web ecosystems. My professional journey is focused on decoupling large-scale systems and fostering collaboration among development teams.
+
+Outside of work, you'll find me trading code for mountain trails and good books, always seeking new ways to learn and grow.
+
+Feel free to explore my work and interests below!
+
 
 ### 💼 Work & Expertise
 As a Frontend Software Architect at Festo, I focus on transforming complex, monolithic web systems into dynamic, interconnected micro-frontend architectures.
@@ -111,6 +118,7 @@ Additional tech I like to use to keep the work rolling.
 - ​Lazygit & LazyDocker: To interact with Git and Docker in a fast and intuitive way, I rely on these two tools. They provide a simple, terminal-based user interface that makes complex tasks quick and effortless.
 
 My entire setup is designed to be fast, keyboard-driven, and distraction-free, allowing me to fully immerse myself in the code.
+
 ---
 
 ###  Blog Articles :
