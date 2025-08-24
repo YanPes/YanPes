@@ -19,41 +19,24 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### 💼 Work & Expertise
+As a Frontend Software Architect at Festo, I focus on transforming complex, monolithic web systems into dynamic, interconnected micro-frontend architectures.
+My main responsibility is the technical orchestration of frontends, enabling decentralized teams to work efficiently on a shared customer journey. In this role, I ensure our systems are performance, secure, resilient, and communicate seamlessly.
+I also own onboarding and governance documents and serve as a technical mentor and consultant for developers, stakeholders, and design teams.
 
-### About Me :
+### 🏃‍♂️ Off-Screen Balance
+To maintain my productivity and mental balance, I enjoy spending my free time away from the screen:
+- Trail running & hiking in the mountains
+- Alpine skiing
+- Reading & cooking
+- Exploring nature and other cultures with my girlfriend
 
-* I am a Frontend Software Architect for web applications and intricate web platform systems working at Festo SE & Co. KG, the leading company in pneumatic and electric industrial automation technology.
-* My main focus and responsibility is to move monolithic frontend codebases and systems to dynamic and interconnected frontend ecosystems (micro-frontends) to optimize and enable technology stacks and infrastructure to support highly dynamic and complex business demands of tomorrow.
-* This endeavor is especially important when streamlining decentralized development teams working on a common overarching Customer Journey with complex omni-directional communication and code-sharing requirements. 
+When I do find time for private coding, it's usually for research or tinkering with my Neovim configuration.
 
-* Besides my daily work, I am a member of the "ByteDance OpenSource Innovator Program" where I contribute to open source technologies like [Module Federation](https://module-federation.io/index.html), [Modern.js](https://modernjs.dev/en/index.html), [Rslib](https://lib.rsbuild.dev/index) and [Rspress](https://rspress.dev/) although, my main role is to represent these technologies as an advocate in the public and social-media.
-
-* In my free time, I try to spend as much time as possible off-screen to keep a consistent productivity level and mental balance. You will most likely find me:
-  * Trail-running or hiking in the mountains or woods
-  * Alpine skiing on groomers
-  * Reading a good book
-  * Exploring nature and other cultures with my girlfriend
-  * Express creativity through cooking
-
-* If I carve out some time for private coding, it is mostly research related or fiddling around with my neovim-config
 
 ---
 
-### Responsibilities and Work :
-
-* Technical transformation of large-scale omni-channel monolithic frontends towards decomposable Module Federation based micro frontend architectures,
-
-* Orchestration and maintenance of security and system resilince as well as robust communication interfaces and channels within micro frontend architectures and their interfaces between a large number of host and remote systems. 
-
-* Maintenance and ownership of Coding & Onboarding Guidelines as well as micro-frontend related Governance & Compliance documents.
-
-* Mentorship, technical sparring and consulting for development teams on advanced tech-stack or infrastructure topics.
-
-* Technical consultant for - and "glue" - between business owners, stakeholders, design departments and technical departments.
-
----
-
-### Languages and Tools :
+### 🛠️ Languages and Libraries
 
 #### Classic Frontend 
 Yes, I learned frontend when jQuery was the GOAT! Having a solid foundation on classic technology without abstraction layers is mandatory to actually understand any advanced framework or toolkit (looking at you React and Tailwind).  
@@ -112,13 +95,22 @@ Additional tech I like to use to keep the work rolling.
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
 
-#### Fun Stuff
-I love to play around with Generative Art and 3D on the web. It's just a cool creative process and a nice chance for me to apply knowledge of my Interaction Design and 3D Environemnt Art past to the web world. 
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/threejs/threejs-original.svg" title="ThreeJs" alt="ThreeJs" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/p5js/p5js-original.svg" title="p5js" alt="p5js" width="50" height="50"/>
-</div>
+---
 
+### ​⚙️ My Dev Setup
+
+​I'm a strong believer in a highly customized and efficient development environment. My setup is built around a few key tools that help me stay productive and focused.
+
+#### ​Operating System
+​My go-to setup is Arch Linux paired with Hyprland, a dynamic tiling Wayland compositor, to manage my windows and workspaces with ease. Unfortunately, I am bound to a Windows machine at work trying by best to be friends with WLS 🙈
+
+#### ​Core Tools
+- ​Neovim: My custom-built Neovim configuration is the heart of my coding workflow. It's a lightweight, powerful, and keyboard-centric editor tailored to my needs.
+- ​IdeaVim: For my work with JetBrains IDEs like IntelliJ, I use the IdeaVim plugin. This allows me to replicate my efficient, keyboard-driven Neovim experience within a more feature-rich environment, ensuring a consistent workflow.
+- ​Tmux: I use Tmux to manage multiple terminal sessions and windows from a single screen. This lets me handle different tasks—from running tests to monitoring logs—without ever leaving my terminal.
+- ​Lazygit & LazyDocker: To interact with Git and Docker in a fast and intuitive way, I rely on these two tools. They provide a simple, terminal-based user interface that makes complex tasks quick and effortless.
+
+My entire setup is designed to be fast, keyboard-driven, and distraction-free, allowing me to fully immerse myself in the code.
 ---
 
 ###  Blog Articles :
