@@ -54,4 +54,5 @@ Trail running • Mountains • Skiing • Books • Cooking • Neovim tinkerin
 ### Philosophy
 
 > Build systems that scale teams — not just applications.
+
 > Curiosity and wonder are your best tools to success
