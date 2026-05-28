@@ -26,7 +26,7 @@ Today I focus on:
 - Micro frontends & Module Federation
 - Build tooling & developer platforms
 - DX, governance & scalable systems
-- Mentoring teams
+- Teams mentoring (Architecture, AI, Tech-Stacks, Systems Design)  
 
 ---
 
