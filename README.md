@@ -41,7 +41,7 @@ Today I focus on:
 ### Setup
 
 `Arch Linux (Omarchy)` `Neovim` `tmux`
-`Opencode` `LazyGit` `LazyDocker`  
+`Opencode / Pi` `LazyGit` `LazyDocker`  
 
 ---
 
